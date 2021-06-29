@@ -1,0 +1,577 @@
+kartable database already exists so we use it.
+----------------------------------------
+today is:  [1400, 2, 27]
+SUM in vorod:  (11283,)
+Sum in show:  (11283,)
+kartable database already exists so we use it.
+today is:  [1400, 2, 28]
+SUM in vorod:  (11283,)
+res in signin  is:  (51, 11283, '23:02:53')
+sign in was successful.
+kartable database already exists so we use it.
+today is:  [1400, 2, 28]
+SUM in vorod:  (11283,)
+res in signout is:  (52, 11283, '17:12:52')
+sum1 is:  5:42:24
+sum2 is:  11625
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 2, 28]
+SUM in vorod:  (11625,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 2, 28]  ---  2021-05-18 22:57:43.657302
+SUM in vorod:  (11625,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 2, 29]  ---  2021-05-19 17:13:27.632466
+SUM in vorod:  (11625,)
+res in signin  is:  (53, 11625, '22:55:16')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 2, 29]  ---  2021-05-19 22:57:10.831992
+SUM in vorod:  (11625,)
+res in signout is:  (54, 11625, '17:13:29')
+sum1 is:  5:43:44
+sum2 is:  11968
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 2, 30]  ---  2021-05-20 13:57:43.097059
+SUM in vorod:  (11968,)
+res in signin  is:  (55, 11968, '22:57:13')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 2, 30]  ---  2021-05-20 22:43:08.279400
+SUM in vorod:  (11968,)
+res in signout is:  (56, 11968, '13:57:44')
+sum1 is:  8:45:25
+sum2 is:  12493
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 2, 31]  ---  2021-05-21 09:20:08.451121
+SUM in vorod:  (12493,)
+res in signin  is:  (57, 12493, '22:43:09')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 2, 31]  ---  2021-05-21 22:48:17.376409
+SUM in vorod:  (12493,)
+res in signout is:  (58, 12493, '09:20:10')
+sum1 is:  13:28:08
+sum2 is:  13301
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 17:12:54.744674
+SUM in vorod:  None
+seting var in line 138 has eror -->  'NoneType' object is not subscriptable so we set 0 in it.(0 miniutes or 0 hours)
+res in signin  is:  None
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 17:13:07.161334
+SUM in vorod:  None
+seting var in line 138 has eror -->  'NoneType' object is not subscriptable so we set 0 in it.(0 miniutes or 0 hours)
+res in signin  is:  None
+res in signout is:  None
+res in signin  is:  None
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 17:21:05.135261
+SUM in vorod:  (0,)
+res in signin  is:  (60, 0, '17:15:19')
+sign in was successful.
+Sum in show:  (0,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 17:42:07.393499
+SUM in vorod:  (0,)
+Sum in show:  (0,)
+res in test is:  (61, 0, '17:21:07')
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 17:43:08.772825
+SUM in vorod:  (0,)
+res in test is:  (61, 0, '17:21:07')
+(id) res in one (61,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 17:43:39.108927
+SUM in vorod:  (0,)
+res in test is:  (61, 0, '17:21:07')
+(id) res in one (61,)
+res in signin  is:  (62, 0, '17:43:40')
+sign in was successful.
+Sum in show:  (0,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 17:45:15.026794
+SUM in vorod:  None
+seting var in line 138 has eror -->  'NoneType' object is not subscriptable so we set 0 in it.(0 miniutes or 0 hours)
+res in test is:  None
+(id) res in one (59,)
+res in signin  is:  (60, 0, '17:45:16')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 17:46:30.461037
+SUM in vorod:  (0,)
+Sum in show:  (0,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 22:56:59.439838
+SUM in vorod:  (0,)
+res in signout is:  (61, 0, '17:15:16')
+sum1 is:  5:41:44
+sum2 is:  341
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 1]  ---  2021-05-22 22:57:04.980217
+SUM in vorod:  (341,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 2]  ---  2021-05-23 12:00:38.158067
+SUM in vorod:  (341,)
+Sum in show:  (13301,)
+res in PRINT:  (1, 'test', 1400, 2, 2, '14:03:42', '2021-04-22 14:03:42.042847', 0)
+record saved in  savefile_of-1400-2.csv
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 2]  ---  2021-05-23 17:14:22.471632
+SUM in vorod:  (341,)
+res in signin  is:  (62, 341, '22:57:00')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 2]  ---  2021-05-23 22:57:20.585502
+SUM in vorod:  (341,)
+res in signout is:  (63, 341, '17:14:24')
+sum1 is:  5:42:57
+sum2 is:  683
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 3]  ---  2021-05-24 17:14:24.663186
+SUM in vorod:  (683,)
+res in signin  is:  (64, 683, '22:57:21')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 3]  ---  2021-05-24 22:55:38.692807
+SUM in vorod:  (683,)
+res in signout is:  (65, 683, '17:14:26')
+sum1 is:  5:41:14
+sum2 is:  1024
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 4]  ---  2021-05-25 17:14:29.781832
+SUM in vorod:  (1024,)
+res in signin  is:  (66, 1024, '22:55:40')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 4]  ---  2021-05-25 22:56:24.206575
+SUM in vorod:  (1024,)
+res in signout is:  (67, 1024, '17:14:31')
+sum1 is:  5:41:54
+sum2 is:  1365
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 5]  ---  2021-05-26 17:16:32.568549
+SUM in vorod:  (1365,)
+res in signin  is:  (68, 1365, '22:56:25')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 5]  ---  2021-05-26 22:58:16.607594
+SUM in vorod:  (1365,)
+res in signout is:  (69, 1365, '17:16:33')
+sum1 is:  5:41:44
+sum2 is:  1706
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 6]  ---  2021-05-27 14:09:11.757640
+SUM in vorod:  (1706,)
+res in signin  is:  (70, 1706, '22:58:17')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 6]  ---  2021-05-27 23:01:35.981242
+SUM in vorod:  (1706,)
+res in signout is:  (71, 1706, '14:09:13')
+sum1 is:  8:52:24
+sum2 is:  2238
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 7]  ---  2021-05-28 09:42:09.512710
+SUM in vorod:  (2238,)
+res in signin  is:  (72, 2238, '23:01:37')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 7]  ---  2021-05-28 23:06:04.736342
+SUM in vorod:  (2238,)
+res in signout is:  (73, 2238, '09:42:10')
+sum1 is:  13:23:56
+sum2 is:  3041
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 9]  ---  2021-05-30 17:14:23.665670
+SUM in vorod:  (3041,)
+res in signin  is:  (74, 3041, '23:06:06')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 9]  ---  2021-05-30 22:58:15.763497
+SUM in vorod:  (3041,)
+res in signout is:  (75, 3041, '17:14:25')
+sum1 is:  5:43:52
+sum2 is:  3384
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 10]  ---  2021-05-31 17:18:25.673790
+SUM in vorod:  (3384,)
+res in signin  is:  (76, 3384, '22:58:17')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 10]  ---  2021-05-31 23:03:45.999421
+SUM in vorod:  (3384,)
+res in signout is:  (77, 3384, '17:18:26')
+sum1 is:  5:45:21
+sum2 is:  3729
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 11]  ---  2021-06-01 17:17:29.341815
+SUM in vorod:  (3729,)
+res in signin  is:  (78, 3729, '23:03:47')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 11]  ---  2021-06-01 23:01:03.354239
+SUM in vorod:  (3729,)
+res in signout is:  (79, 3729, '17:17:31')
+sum1 is:  5:43:33
+sum2 is:  4072
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 12]  ---  2021-06-02 17:18:01.118644
+SUM in vorod:  (4072,)
+res in signin  is:  (80, 4072, '23:01:04')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 12]  ---  2021-06-02 23:01:56.423061
+SUM in vorod:  (4072,)
+res in signout is:  (81, 4072, '17:18:04')
+sum1 is:  5:43:53
+sum2 is:  4415
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 13]  ---  2021-06-03 14:00:45.151384
+SUM in vorod:  (4415,)
+res in signin  is:  (82, 4415, '23:01:57')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 13]  ---  2021-06-03 22:57:15.382870
+SUM in vorod:  (4415,)
+res in signout is:  (83, 4415, '14:00:46')
+sum1 is:  8:56:30
+sum2 is:  4951
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 14]  ---  2021-06-04 08:54:02.776747
+SUM in vorod:  (4951,)
+res in signin  is:  (84, 4951, '22:57:16')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 14]  ---  2021-06-04 22:51:58.820315
+SUM in vorod:  (4951,)
+res in signout is:  (85, 4951, '08:54:04')
+sum1 is:  13:57:56
+sum2 is:  5788
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 15]  ---  2021-06-05 10:24:53.023805
+SUM in vorod:  (5788,)
+res in signin  is:  (86, 5788, '22:52:00')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 15]  ---  2021-06-05 22:53:33.598065
+SUM in vorod:  (5788,)
+res in signout is:  (87, 5788, '10:24:54')
+sum1 is:  12:28:41
+sum2 is:  6536
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 16]  ---  2021-06-06 09:23:19.081995
+SUM in vorod:  (6536,)
+res in signin  is:  (88, 6536, '22:53:35')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 16]  ---  2021-06-06 22:50:18.123766
+SUM in vorod:  (6536,)
+res in signout is:  (89, 6536, '09:23:20')
+sum1 is:  13:26:59
+sum2 is:  7342
+sign out was successful.
+Sum in show:  (7342,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 18]  ---  2021-06-08 17:18:01.436980
+SUM in vorod:  (7342,)
+res in signin  is:  (90, 7342, '22:50:19')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 18]  ---  2021-06-08 22:59:06.056054
+SUM in vorod:  (7342,)
+res in signout is:  (91, 7342, '17:18:10')
+sum1 is:  5:40:57
+sum2 is:  7682
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 19]  ---  2021-06-09 17:21:06.571888
+SUM in vorod:  (7682,)
+res in signin  is:  (92, 7682, '22:59:07')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 19]  ---  2021-06-09 22:57:56.015826
+SUM in vorod:  (7682,)
+res in signout is:  (93, 7682, '17:21:07')
+sum1 is:  5:36:50
+sum2 is:  8018
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 20]  ---  2021-06-10 14:01:04.659680
+SUM in vorod:  (8018,)
+res in signin  is:  (94, 8018, '22:57:57')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 20]  ---  2021-06-10 22:58:07.344294
+SUM in vorod:  (8018,)
+res in signout is:  (95, 8018, '14:01:05')
+sum1 is:  8:57:03
+sum2 is:  8555
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 21]  ---  2021-06-11 09:58:57.661117
+SUM in vorod:  (8555,)
+res in signin  is:  (96, 8555, '22:58:08')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 21]  ---  2021-06-11 23:02:59.929707
+SUM in vorod:  (8555,)
+res in signout is:  (97, 8555, '09:58:59')
+sum1 is:  13:04:02
+sum2 is:  9339
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 22]  ---  2021-06-12 17:35:48.928784
+SUM in vorod:  (9339,)
+res in signin  is:  (98, 9339, '23:03:01')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 22]  ---  2021-06-12 23:00:10.709069
+SUM in vorod:  (9339,)
+res in signout is:  (99, 9339, '17:35:50')
+sum1 is:  5:24:22
+sum2 is:  9663
+sign out was successful.
+Sum in show:  (9663,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 23]  ---  2021-06-13 17:13:47.300290
+SUM in vorod:  (9663,)
+res in signin  is:  (100, 9663, '23:00:12')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 23]  ---  2021-06-13 23:02:28.608151
+SUM in vorod:  (9663,)
+res in signout is:  (101, 9663, '17:13:48')
+sum1 is:  5:48:43
+sum2 is:  10011
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 24]  ---  2021-06-14 17:20:07.357148
+SUM in vorod:  (10011,)
+res in signin  is:  (102, 10011, '23:02:31')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 24]  ---  2021-06-14 23:01:19.894810
+SUM in vorod:  (10011,)
+res in signout is:  (103, 10011, '17:20:08')
+sum1 is:  5:41:13
+sum2 is:  10352
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 25]  ---  2021-06-15 17:16:53.893725
+SUM in vorod:  (10352,)
+res in signin  is:  (104, 10352, '23:01:21')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 25]  ---  2021-06-15 23:07:03.160789
+SUM in vorod:  (10352,)
+res in signout is:  (105, 10352, '17:16:55')
+sum1 is:  5:50:09
+sum2 is:  10702
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 26]  ---  2021-06-16 17:18:57.526475
+SUM in vorod:  (10702,)
+res in signin  is:  (106, 10702, '23:07:04')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 26]  ---  2021-06-16 23:03:19.150384
+SUM in vorod:  (10702,)
+res in signout is:  (107, 10702, '17:18:59')
+sum1 is:  5:44:21
+sum2 is:  11046
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 27]  ---  2021-06-17 14:04:00.290712
+SUM in vorod:  (11046,)
+res in signin  is:  (108, 11046, '23:03:20')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 30]  ---  2021-06-20 17:04:01.373541
+SUM in vorod:  (11046,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 30]  ---  2021-06-20 17:15:10.310222
+SUM in vorod:  (11586,)
+Sum in show:  (11586,)
+res in signin  is:  (110, 11586, '23:01:21')
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 3, 30]  ---  2021-06-20 21:02:44.481213
+SUM in vorod:  (11586,)
+res in signout is:  (111, 11586, '17:15:29')
+sum1 is:  3:47:16
+sum2 is:  11813
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 3]  ---  2021-06-24 09:46:04.184152
+SUM in vorod:  None
+seting var in line 138 has eror -->  'NoneType' object is not subscriptable so we set 0 in it.(0 miniutes or 0 hours)
+res in signin  is:  None
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 3]  ---  2021-06-24 09:48:39.456093
+SUM in vorod:  (0,)
+Sum in show:  (0,)
+res in signin  is:  (113, 0, '09:47:42')
+sign in was successful.
+Sum in show:  (0,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 3]  ---  2021-06-24 22:58:00.762799
+SUM in vorod:  (0,)
+res in signout is:  (114, 0, '09:48:47')
+sum1 is:  13:09:15
+sum2 is:  789
+sign out was successful.
+Sum in show:  (789,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 5]  ---  2021-06-26 20:22:31.576765
+SUM in vorod:  (789,)
+Sum in show:  (789,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 5]  ---  2021-06-26 20:36:31.040548
+SUM in vorod:  (789,)
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 5]  ---  2021-06-26 20:39:55.736373
+SUM in vorod:  (789,)
+res in signin  is:  (115, 789, '22:58:02', 4)
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 5]  ---  2021-06-26 21:31:36.116389
+SUM in vorod:  (789,)
+res in signout is:  (116, 789, '20:40:18', 4)
+sum1 is:  0:51:19
+sum2 is:  840
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 7]  ---  2021-06-28 09:46:05.216481
+SUM in vorod:  (840,)
+res in signin  is:  (117, 840, '21:31:37', 4)
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 7]  ---  2021-06-28 11:51:04.363253
+SUM in vorod:  (840,)
+res in PRINT:  (60, 'test', 1400, 3, 1, '17:15:16', '2021-05-22 17:15:16.348642', 0)
+record saved in  savefile_of-1400-3.csv
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 7]  ---  2021-06-28 13:02:28.048641
+SUM in vorod:  (840,)
+res in signout is:  (118, 840, '09:46:06', 4)
+sum1 is:  3:16:23
+sum2 is:  1036
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 7]  ---  2021-06-28 17:10:16.220547
+SUM in vorod:  (1036,)
+res in signin  is:  (119, 1036, '13:02:29', 4)
+sign in was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 7]  ---  2021-06-28 23:02:30.042908
+SUM in vorod:  (1036,)
+res in signout is:  (120, 1036, '17:10:17', 4)
+sum1 is:  5:52:14
+sum2 is:  1388
+sign out was successful.
+kartable database already exists so we use it.
+------------------------------
+today is:  [1400, 4, 8]  ---  2021-06-29 10:00:33.976646
+SUM in vorod:  (1388,)
+res in signin  is:  (121, 1388, '23:02:31', 4)
+sign in was successful.
